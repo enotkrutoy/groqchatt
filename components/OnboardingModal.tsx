@@ -144,13 +144,13 @@ const OnboardingModal = ({ isOpen, onClose }) => {
                                         href="https://console.groq.com/keys"
                                         className="text-blue-400 hover:underline"
                                     >
-                                        GitHub Repo
+                                        keys
                                     </a>
                                 </li>
                                 <li>
                                      X (docs-chat-groqcloud):{" "}
                                     <a href="https://docs-chat.groqcloud.com/" className="text-blue-400 hover:underline">
-                                        @YourTwitter
+                                        docs-chat
                                     </a>
                                 </li>
                             </ul>
