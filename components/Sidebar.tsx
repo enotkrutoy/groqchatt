@@ -165,19 +165,19 @@ const Sidebar = () => {
                         <p>Dark Mode</p>
                     </Link> */}
                     <Link
-                        href="https://github.com/unclecode/groqchat"
+                        href="https://www.morphic.sh"
                         className="flex space-x-2 p-2 hover:bg-zinc-700 mx-2 rounded text-zinc-300 text-sm items-center"
                     >
                         <LinkIcon className="h-5 w-5 text-zinc-500" />
-                        <p>Github</p>
+                        <p>morphic</p>
                     </Link>
                     {/* Add my twitter and then discord */}
                     <Link
-                        href="https://x.com/unclecode"
+                        href="https://nova-coding.streamlit.app/"
                         className="flex space-x-2 p-2 hover:bg-zinc-700 mx-2 rounded text-zinc-300 text-sm items-center"
                     >
                         <UserIcon className="h-5 w-5 text-zinc-500" />
-                        <p>X (Twitter)</p>
+                        <p>X (nova)</p>
                     </Link>
 
                     {/* <Link
